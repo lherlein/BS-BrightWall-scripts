@@ -1,0 +1,9 @@
+{
+  "name": "bs-bright-wall-scripts",
+  "version": "0.0.0",
+  "description": "BS BrightWall scripts",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
